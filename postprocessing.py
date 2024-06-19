@@ -8,7 +8,7 @@ from TikTokApi import TikTokApi
 import config
 
 # Normal GitHub Pages URL
-# ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
+ghPagesURL = "https://ktnjared.github.io/tiktok-rss-flat/"
 
 # Custom Domain
 ghPagesURL = config.ghPagesURL
