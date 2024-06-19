@@ -11,7 +11,7 @@ import config
 ghPagesURL = "https://ktnjared.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = config.ghPagesURL
+#ghPagesURL = config.ghPagesURL
 
 api = TikTokApi()
 
